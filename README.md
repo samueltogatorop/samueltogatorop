@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Samuel Viktorio Togatorop</h1>
+<h1 align="center">Hi, I'm Samuel Viktorio Togatorop</h1>
 <h3 align="center">I enjoy learning about software development, databases, and computer graphics. Currently working on academic projects using Visual Basic, OpenGL, and MySQL. Interested in Web-based systems. Feel free to connect or check out my repositories</h3>
 
 <h3 align="left">Connect with me:</h3>
